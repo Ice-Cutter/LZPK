@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.6",
+  "layer": [
+    {
+      "name": "canvas_17",
+      "value": 131072
+    },
+    {
+      "name": "canvas_18",
+      "value": 262144
+    },
+    {
+      "name": "canvas_19",
+      "value": 524288
+    }
+  ]
+}
